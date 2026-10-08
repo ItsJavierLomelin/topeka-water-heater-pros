@@ -143,3 +143,9 @@
 @media(max-width:600px){.brand img{width:48px;height:48px}}
 /* Content is visible immediately, with no scroll-dependent reveal gate. */
 .js .rev { opacity:1; transform:none; transition:none; }
+
+/* Self-hosted photo slots. Swap files or PageHero image/imageAlt props per build. */
+.hero-photo { display:block; width:100%; height:220px; object-fit:cover; border-radius:var(--r-md); margin:0 0 26px; }
+.card-photo { display:block; width:calc(100% + 52px); max-width:none; height:190px; object-fit:cover; margin:-26px -26px 24px; border-radius:var(--r-md) var(--r-md) 0 0; }
+.about-photo { display:block; width:100%; height:260px; object-fit:cover; border-radius:var(--r-md); margin:0 0 28px; }
+@media(max-width:600px){ .hero-photo{height:190px;margin-bottom:22px} .about-photo{height:220px} }
