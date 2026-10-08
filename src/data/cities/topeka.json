@@ -1,0 +1,621 @@
+{
+  "site": {
+    "city": "Topeka",
+    "region": "KS",
+    "regionName": "Kansas",
+    "country": "US",
+    "niche": "Water Heater Repair and Installation",
+    "brand": "Topeka Water Heater Pros",
+    "origin": "https://topekawaterheater.prosapp.site",
+    "phoneDisplay": "(877) 761-0283",
+    "phoneHref": "+18777610283",
+    "email": "",
+    "ga4MeasurementId": "",
+    "airchattyTrackingId": "tk_61d238e145314251999b74fdd5c953cf",
+    "pageCode": "HSP",
+    "businessDescription": "Water heater repair and installation inquiries for homes and small businesses in Topeka, Kansas.",
+    "orgDescription": "Topeka Water Heater Pros provides information and a request form for water heater repair and installation in Topeka, KS. Availability and the scope of work are confirmed before a job is booked.",
+    "llmsSummary": "Topeka Water Heater Pros covers water heater repair, replacement and tankless installation inquiries in Topeka, KS. Call (877) 761-0283 to discuss the property and confirm service availability.",
+    "schemaServiceType": "Water heater repair and installation",
+    "logoHeader": "/logo.svg",
+    "logoFooter": "/logo-footer.svg",
+    "ogImage": "/water-heater-og.webp"
+  },
+  "theme": {
+    "accent": "#c8f14d",
+    "accentDeep": "#a4d229",
+    "ink": "#101110",
+    "mist": "#f5f6f1"
+  },
+  "ui": {
+    "heroEyebrow": "Topeka, Kansas",
+    "calloutTitle": "Tell us what your hot water is doing",
+    "calloutText": "A few details about the heater and your property help start the right conversation.",
+    "successNiche": "water heater",
+    "formNote": "Use this form for service inquiries, not emergencies. If you smell gas, leave the building and contact your gas utility or emergency services from a safe place."
+  },
+  "home": {
+    "h1": "Water Heater Repair and Installation in Topeka, KS",
+    "intro": "A Victorian home in Potwin and a 1930s house in Westboro can have very different spaces for a water heater. If the shower runs cold, the tank leaks or a replacement no longer fits the old setup, tell us what is happening. We help you start with the heater, the connections and the way your household uses hot water.",
+    "title": "Water Heater Repair and Installation in Topeka, KS",
+    "desc": "Discuss water heater repair, replacement or tankless installation in Topeka, KS. Local planning for older homes, household hot water needs and small businesses.",
+    "servicesTitle": "Repair the problem. Plan the right replacement.",
+    "servicesLead": "Start with the question that brought you here: a heater that is not working, a tank that needs replacing or a move to tankless.",
+    "aboutTitle": "Hot water planning starts with the house",
+    "aboutLead": "Topeka has historic homes near Washburn, established blocks around Collins Park and shop spaces in NOTO. Describe the heater you have and the fixtures it serves. Equipment, access and availability need to be checked before any work is agreed.",
+    "stepsTitle": "From your first description to a clear scope",
+    "steps": [
+      {
+        "t": "Describe the symptoms",
+        "d": "Tell us whether the problem affects every hot tap, one fixture or only busy times."
+      },
+      {
+        "t": "Identify the equipment",
+        "d": "Share the model, fuel type and where the heater sits, if you can do so safely."
+      },
+      {
+        "t": "Discuss the property",
+        "d": "Access, venting, connections and hot water demand shape the next step."
+      },
+      {
+        "t": "Confirm the work",
+        "d": "Agree on the scope, equipment and any required permit before scheduling."
+      }
+    ],
+    "faqHeading": "Before you request water heater service",
+    "faqs": [
+      {
+        "q": "Is no hot water always a failed heater?",
+        "a": "Not necessarily. A problem at one faucet may have a different cause from a whole-house loss of hot water. Describe which fixtures are affected and whether the heater has a visible error code. Do not remove covers or work on gas or electrical connections."
+      },
+      {
+        "q": "Can an older Topeka house use a new tank water heater?",
+        "a": "Often it can, but the replacement must fit the space and its connections must be assessed. A heater in an older basement may need a different access plan from one in a utility closet. The existing tank size is not enough to settle the choice."
+      },
+      {
+        "q": "Should I switch to tankless when the tank needs replacing?",
+        "a": "It depends on simultaneous hot water demand and the property. A gas tankless system may need different fuel supply and venting. Discuss the complete installation rather than choosing by cabinet size alone."
+      },
+      {
+        "q": "Does sending this form book a visit?",
+        "a": "No. It starts a service inquiry. Availability, the job scope and scheduling are confirmed separately."
+      }
+    ],
+    "coverageTitle": "Topeka homes and neighborhood business spaces",
+    "coverageLead": "Explore seven Topeka neighborhoods and districts. Confirm the service address and equipment when you get in touch.",
+    "calloutTitle": "Cold shower, leaking tank or a planned change?",
+    "calloutText": "Share the symptoms and the heater location. We can discuss a repair inquiry or help you plan the next installation.",
+    "footerLinksHtml": "Tell us the heater type, the symptoms and your Topeka service address when you call."
+  },
+  "services": [
+    {
+      "slug": "water-heater-repair",
+      "name": "Water Heater Repair",
+      "shortName": "Repair",
+      "note": "No hot water, temperature changes or a visible leak."
+    },
+    {
+      "slug": "water-heater-installation",
+      "name": "Water Heater Installation and Replacement",
+      "shortName": "Installation",
+      "note": "A replacement tank, changed demand or a new setup."
+    },
+    {
+      "slug": "tankless-water-heaters",
+      "name": "Tankless Water Heater Installation",
+      "shortName": "Tankless",
+      "note": "Check hot water demand, connections and venting first."
+    }
+  ],
+  "guides": [
+    {
+      "slug": "repair-or-replace",
+      "name": "Repair or Replace a Water Heater"
+    },
+    {
+      "slug": "tank-vs-tankless",
+      "name": "Tank or Tankless: Plan Your Setup"
+    }
+  ],
+  "indexPages": {
+    "services": {
+      "h1": "Water Heater Services in Topeka, KS",
+      "title": "Water Heater Services in Topeka | Repair, Replacement, Tankless",
+      "desc": "Find the right starting point for water heater repair, installation or tankless planning in Topeka.",
+      "intro": "Choose a service to learn what to describe and what needs checking at the property."
+    },
+    "guides": {
+      "h1": "Water Heater Planning in Topeka, KS: Step by Step",
+      "title": "Water Heater Planning Guides | Topeka Water Heater Pros",
+      "desc": "Practical Topeka guides for repair versus replacement and storage versus tankless systems.",
+      "intro": "Use these guides to prepare equipment details and questions before a service conversation."
+    },
+    "neighborhoods": {
+      "h1": "Water Heater Repair and Installation in Topeka Neighborhoods",
+      "title": "Topeka Neighborhoods | Water Heater Repair and Installation",
+      "desc": "Water heater planning for Potwin, Westboro, Collins Park, College Hill, Holliday Park, Oakland and NOTO.",
+      "intro": "Seven within-city neighborhoods and districts, with property-specific planning notes. Confirm service availability at your address."
+    },
+    "contact": {
+      "h1": "Looking for Water Heater Help in Topeka, KS?",
+      "title": "Contact Topeka Water Heater Pros | Request Service",
+      "desc": "Describe your Topeka water heater problem, equipment and service address. Contact details and scope are confirmed before scheduling.",
+      "intro": "Tell us the symptoms and where the heater is located. Sending a request does not book work."
+    },
+    "about": {
+      "h1": "Topeka Water Heater Pros: Built Around Your Property",
+      "title": "About Topeka Water Heater Pros",
+      "desc": "How Topeka water heater inquiries start with equipment, symptoms and the property.",
+      "intro": "Describe the setup before a service scope is agreed."
+    }
+  },
+  "pages": {
+    "water-heater-repair": {
+      "h1": "Need Water Heater Repair in Topeka, KS?",
+      "intro": "Water heater repair in a College Hill home starts with separating a heater problem from a fixture problem. Tell us whether every hot tap runs cold, temperatures swing during use or water is collecting near the tank. Older houses near Washburn can have changed plumbing layouts, so the symptom and the heater location both matter.",
+      "title": "Water Heater Repair in Topeka, KS | Diagnose the Symptoms",
+      "desc": "Cold taps, changing temperatures or a leaking water heater in Topeka? Describe the symptoms, fuel type and equipment location to discuss a repair inquiry.",
+      "sections": [
+        {
+          "h": "What changed before the hot water stopped?",
+          "ps": [
+            "A complete loss of hot water, a short supply and a problem at one tap are different starting points. Note when it began and whether the heater displays an error. A professional can check the appropriate heating components, controls and connections without guessing from the symptom alone."
+          ]
+        },
+        {
+          "h": "What should you tell us about the heater?",
+          "ps": [
+            "The model label, fuel type and access route help explain the setup. In Potwin or College Hill, an older basement may have later alterations that are not apparent from the age of the house. Share what you know about previous heater changes, but do not move the unit or open electrical or burner covers."
+          ]
+        },
+        {
+          "h": "A visible leak needs a closer look",
+          "ps": [
+            "Water beside the heater does not by itself show where the leak starts. Connections, the surrounding plumbing and the tank need to be distinguished. If water is near electrical equipment, keep away and get professional help. If you smell gas, leave the property and call your gas utility or emergency services from a safe location."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Can a repair be confirmed from the form?",
+          "a": "No. A description helps organize the inquiry, but the cause and repairability need to be assessed. Do not assume a part replacement will solve a leak in the tank itself."
+        },
+        {
+          "q": "What if only the upstairs shower goes cold?",
+          "a": "Explain whether other fixtures still have hot water and whether the change happens while another tap is running. The shower valve, distribution and overall demand may need to be checked as well as the heater."
+        }
+      ],
+      "blurb": "Discuss lost hot water, inconsistent temperatures and leaks before choosing a repair."
+    },
+    "water-heater-installation": {
+      "h1": "Water Heater Installation in Topeka, KS: What to Expect",
+      "intro": "Water heater installation in Westboro or Collins Park is about more than replacing a cylinder. These established neighborhoods include homes with utility spaces and connections that may have changed over decades. Plan for the route into the house, the fuel supply and the hot water demand before selecting a replacement.",
+      "title": "Water Heater Installation and Replacement in Topeka, KS",
+      "desc": "Plan a water heater replacement in Topeka around access, fuel type, household demand and permit requirements. Discuss tank installation before a job is booked.",
+      "sections": [
+        {
+          "h": "A replacement should fit the complete setup",
+          "ps": [
+            "Measure the available space and describe how the current heater can be reached. A larger household or added bathroom may change demand, while the replacement equipment may have different clearances. The installation plan needs to account for the whole system rather than matching the old tank label alone."
+          ]
+        },
+        {
+          "h": "Who checks permits and inspections?",
+          "ps": [
+            "Topeka regulates replacement of plumbing and other building systems through its <a href=\"https://topeka.municipal.codes/TMC/14.55.090\" target=\"_blank\" rel=\"noopener noreferrer\">residential permit provisions</a>. Have the installer confirm the permit and inspection steps that apply to your water heater job with the city before work begins. Do not treat a previous installation as proof that a new one has the same requirements."
+          ]
+        },
+        {
+          "h": "Plan the change without assumptions",
+          "ps": [
+            "Share whether you want to keep the same fuel type or consider a different setup. The installer should assess water connections, any gas or electrical changes and venting where relevant. A form request does not confirm equipment availability, an appointment or approval for the work."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Can I choose a replacement using tank capacity alone?",
+          "a": "No. Capacity matters, but so do hot water demand, fuel type, installation space and the connections. Discuss how many fixtures run together and any changes since the existing heater was installed."
+        },
+        {
+          "q": "Can a new heater go into a different location?",
+          "a": "A move may involve plumbing, electrical or fuel work and different venting. Describe the proposed location so the scope and applicable city requirements can be checked before committing to it."
+        }
+      ],
+      "blurb": "Plan a replacement around the space, connections and hot water your property needs."
+    },
+    "tankless-water-heaters": {
+      "h1": "Considering Tankless Water Heaters in Topeka, KS?",
+      "intro": "A tankless water heater may suit a Topeka household, but a compact unit is not automatically a simple swap. In a Westboro house or an adapted NOTO building, the existing gas line, vent route and use of several fixtures at once need attention. Start with the demand and installation requirements, not a promise of endless hot water.",
+      "title": "Tankless Water Heater Installation in Topeka, KS",
+      "desc": "Considering a tankless water heater in Topeka? Discuss simultaneous demand, fuel supply, venting and the property setup before an installation is planned.",
+      "sections": [
+        {
+          "h": "Can the house support a tankless installation?",
+          "ps": [
+            "For gas tankless equipment, <a href=\"https://www.energystar.gov/products/whole_home_tankless_gas_water_heaters\" target=\"_blank\" rel=\"noopener noreferrer\">ENERGY STAR explains the need to assess flow demand, gas supply and combustion venting</a>. Electric models have their own electrical requirements. Have the intended model and the existing connections reviewed together."
+          ]
+        },
+        {
+          "h": "Several fixtures change the sizing conversation",
+          "ps": [
+            "A shower, laundry cycle and kitchen use can place different demands on the same heater. Tell us which uses overlap rather than assuming that the number of bedrooms predicts demand. Capacity should be matched to the equipment and the conditions at your property."
+          ]
+        },
+        {
+          "h": "A smaller cabinet does not remove access needs",
+          "ps": [
+            "Tankless equipment still needs a suitable installation space and access for service. Older homes in Potwin and commercial spaces in NOTO may have constraints that make the proposed location important. A service inquiry can identify the questions to check before choosing a model."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Does tankless mean unlimited hot water at every tap?",
+          "a": "No. The output is limited by the model and installation conditions. Several fixtures running together can exceed what one unit can supply."
+        },
+        {
+          "q": "Can I keep the same gas line?",
+          "a": "That cannot be assumed. A qualified installer needs to check the requirements of the selected model against the available gas supply and venting."
+        }
+      ],
+      "blurb": "Explore tankless only after checking demand, fuel supply and the installation space."
+    },
+    "repair-or-replace": {
+      "h1": "Water Heater Repair or Replacement in Topeka, KS: Compare Your Options",
+      "intro": "A heater problem in an older Topeka house does not automatically mean the whole unit must go. The source of a leak, the type of failure and the condition of the equipment matter. This guide helps you describe the situation without treating age alone as a diagnosis.",
+      "title": "Repair or Replace a Water Heater in Topeka | Planning Guide",
+      "desc": "Separate repair symptoms from replacement planning in Topeka. Learn which equipment details, leak locations and household changes to discuss.",
+      "sections": [
+        {
+          "h": "Start with the observed problem",
+          "ps": [
+            "Write down whether there is no hot water, less hot water than before, unstable temperature or visible moisture. Say whether the issue affects the whole property or one fixture. Photos of the equipment label can help if you can take them safely without moving covers."
+          ]
+        },
+        {
+          "h": "Repairability is a condition, not a guess",
+          "ps": [
+            "A failed control and a damaged tank are different situations. Equipment condition, the source of leakage and the availability of suitable parts need to be assessed before a repair is chosen. Avoid repeatedly resetting a fault without having its cause checked."
+          ]
+        },
+        {
+          "h": "Think about what changed in the house",
+          "ps": [
+            "A College Hill home adapted for several occupants may use hot water differently from its earlier layout. An added bathroom or overlapping showers can change demand even when the existing heater still operates. Describe the current use so a replacement discussion is not based only on what was installed before."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Should I replace a heater just because it is old?",
+          "a": "Age is one factor, but it does not establish the fault or the right next step. Discuss the equipment condition and symptoms with the person assessing the job."
+        }
+      ],
+      "blurb": "Prepare the facts for a repair or replacement conversation."
+    },
+    "tank-vs-tankless": {
+      "h1": "Water Heater Options in Topeka, KS: Choose the Right Fit",
+      "intro": "A storage tank and a tankless heater deliver hot water differently. In Topeka, a unit in a historic basement and one serving a neighborhood shop may have different access and demand needs. Compare the way the equipment works before choosing a new installation.",
+      "title": "Tank vs Tankless Water Heaters in Topeka | Setup Guide",
+      "desc": "Compare storage and tankless hot water systems without price claims. Plan around simultaneous use, equipment location and the connections at a Topeka property.",
+      "sections": [
+        {
+          "h": "How does each type supply hot water?",
+          "ps": [
+            "A storage heater keeps a reserve of heated water. A tankless system heats water as it flows through the unit. Both need to be matched to the property and expected use; a smaller cabinet does not establish that a tankless conversion is suitable."
+          ]
+        },
+        {
+          "h": "What should you compare at your property?",
+          "ps": [
+            "Tell us the existing fuel type, the available space and which fixtures run at the same time. An installation review can then address the necessary connections and access. A home near Collins Park with an established utility area poses a different planning question from a new fit-out in a commercial unit."
+          ]
+        },
+        {
+          "h": "What information helps before choosing?",
+          "ps": [
+            "Collect the model label and describe any planned changes to bathrooms, laundry or occupancy. In a business space, include opening hours and the equipment that needs hot water. Equipment and scope are confirmed separately from the first inquiry."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Can I decide from the size of the cabinet?",
+          "a": "No. The supply connections, demand and installation requirements are as important as the physical size of the heater."
+        }
+      ],
+      "blurb": "Compare how storage and on-demand equipment fit the property."
+    },
+    "about": {
+      "h1": "Topeka Water Heater Pros: Built Around Your Property",
+      "intro": "Topeka Water Heater Pros is a place to discuss water heater repair and installation in Topeka, Kansas. We focus the conversation on the symptoms, the equipment and the property rather than promising a result before the setup has been checked.",
+      "title": "About Topeka Water Heater Pros",
+      "desc": "Learn how to start a water heater repair or installation inquiry for a Topeka home or small business. Scope and availability are confirmed before booking.",
+      "sections": [
+        {
+          "h": "Useful details make the next step clearer",
+          "ps": [
+            "Share the service address, the type of heater and what changed. A home in Holliday Park can have a different access route from a shop space in NOTO. We do not assume that one installation plan fits every property. The city's visitor bureau documents the <a href=\"https://www.visittopeka.com/about-topeka/neighborhood-guide/\" target=\"_blank\" rel=\"noopener noreferrer\">historic character of Topeka neighborhoods</a>, but the condition of an individual heater must be checked at the property."
+          ]
+        },
+        {
+          "h": "No job is booked by a form alone",
+          "ps": [
+            "An inquiry is the beginning of a conversation. Equipment suitability, the proposed work and availability must be confirmed before scheduling. Do not use this site to report a gas emergency."
+          ]
+        }
+      ],
+      "faqs": [],
+      "blurb": ""
+    },
+    "privacy": {
+      "h1": "Privacy Policy",
+      "intro": "This policy explains the information collected when you use Topeka Water Heater Pros or send a service inquiry.",
+      "title": "Privacy Policy | Topeka Water Heater Pros",
+      "desc": "How Topeka Water Heater Pros uses request details, site analytics and submission tracking.",
+      "sections": [
+        {
+          "h": "Information you provide",
+          "ps": [
+            "The request form collects your name, phone number, optional email and a description of the problem. It also records the site, page and page code associated with the inquiry. Avoid putting payment details or other sensitive information in the message."
+          ]
+        },
+        {
+          "h": "Request handling and site measurement",
+          "ps": [
+            "We use the information to respond to the inquiry and support service-request handling. The site uses an external form-tracking service and Google Analytics to process submission events and understand site use. These services may collect device, browser and usage information and use cookies or similar technology."
+          ]
+        },
+        {
+          "h": "Questions about your information",
+          "ps": [
+            "Call (877) 761-0283 or use the contact page to ask about a request or the information you provided. This policy does not promise a fixed retention period or processing outcome."
+          ]
+        }
+      ],
+      "faqs": [],
+      "blurb": ""
+    },
+    "terms": {
+      "h1": "Terms of Service",
+      "intro": "These terms apply to use of Topeka Water Heater Pros and its service inquiry form.",
+      "title": "Terms of Service | Topeka Water Heater Pros",
+      "desc": "Terms for water heater information and service inquiries in Topeka, Kansas. Requests do not book work or guarantee availability.",
+      "sections": [
+        {
+          "h": "Information and suitability",
+          "ps": [
+            "The site provides general water heater repair and installation information for Topeka. It is not a substitute for an assessment of your equipment, an emergency response or professional advice about a specific installation."
+          ]
+        },
+        {
+          "h": "Service inquiries",
+          "ps": [
+            "Calling or sending a form does not book a job or guarantee availability, equipment suitability or a result. The scope of any proposed work and scheduling must be confirmed separately."
+          ]
+        },
+        {
+          "h": "Use and safety",
+          "ps": [
+            "Provide accurate contact and property details. Do not use the form for gas leaks or other emergencies. If you smell gas, leave the building and contact the gas utility or emergency services from a safe place."
+          ]
+        }
+      ],
+      "faqs": [],
+      "blurb": ""
+    }
+  },
+  "neighborhoods": [
+    {
+      "slug": "potwin-place",
+      "name": "Potwin Place",
+      "h1": "Water Heater Repair and Installation in Potwin Place, Topeka, KS: For Aging Homes",
+      "title": "Water Heater Repair and Installation in Potwin Place, Topeka",
+      "description": "Plan water heater repair or installation in Potwin Place, Topeka. Discuss the property setup, hot water demand and access before scheduling work.",
+      "intro": "Potwin Place is known for its Victorian homes and circular intersections.",
+      "hero": "Potwin Place is known for its Victorian homes and circular intersections. Water heater work here should start with the equipment location and the route through the house, not an assumption that every historic basement has the same setup.",
+      "body": [
+        {
+          "h": "Access without assumptions",
+          "ps": [
+            "Describe the stairs, doorway and position of the heater before planning a replacement. A restored Victorian house can retain an older utility arrangement even when the living spaces have changed. Check the present connections rather than drawing conclusions from the facade."
+          ]
+        }
+      ],
+      "servicesTitle": "Water heater services for Potwin Place properties",
+      "servicesLead": "Repair addresses a fault, replacement plans a new tank, and tankless installation checks a different setup. Select the service that fits your Potwin Place inquiry.",
+      "mapIntro": "Find the Potwin Place area within Topeka. The map is for location context, not a business address.",
+      "mapLabel": "Potwin Place, Topeka, Kansas",
+      "mapSrc": "https://maps.google.com/maps?q=Potwin%20Place%20Topeka%20KS&output=embed",
+      "faqs": [
+        {
+          "q": "Can a replacement fit through an older basement entrance?",
+          "a": "The available route needs to be measured against the chosen equipment. Tell us about narrow turns or stairs; the model and removal plan should be confirmed before scheduling."
+        }
+      ],
+      "cta": "Describe your Potwin Place water heater setup",
+      "ctaP": "Tell us the symptoms, equipment and access details. Confirm availability and the proposed work before scheduling."
+    },
+    {
+      "slug": "westboro",
+      "name": "Westboro",
+      "h1": "Water Heater Repair and Installation in Westboro, Topeka, KS: Tailored to Your Needs",
+      "title": "Water Heater Repair and Installation in Westboro, Topeka",
+      "description": "Plan water heater repair or installation in Westboro, Topeka. Discuss the property setup, hot water demand and access before scheduling work.",
+      "intro": "Westboro includes large homes in Italian Renaissance Revival, French Eclectic and Colonial styles, with many built in the 1920s and 1930s.",
+      "hero": "Westboro includes large homes in Italian Renaissance Revival, French Eclectic and Colonial styles, with many built in the 1920s and 1930s. If bathrooms or household use have changed, the hot water demand may no longer match the old installation. Water heater planning should consider what runs at the same time.",
+      "body": [
+        {
+          "h": "When the household has changed",
+          "ps": [
+            "A replacement discussion should cover the fixtures used together and any renovations since the current heater was fitted. Westboro homes may have been adapted without moving the original utility area. Describe the present arrangement so access and demand can be checked together."
+          ]
+        }
+      ],
+      "servicesTitle": "Water heater services for Westboro properties",
+      "servicesLead": "Repair addresses a fault, replacement plans a new tank, and tankless installation checks a different setup. Select the service that fits your Westboro inquiry.",
+      "mapIntro": "Find the Westboro area within Topeka. The map is for location context, not a business address.",
+      "mapLabel": "Westboro, Topeka, Kansas",
+      "mapSrc": "https://maps.google.com/maps?q=Westboro%20Topeka%20KS&output=embed",
+      "faqs": [
+        {
+          "q": "Does a larger Westboro house always need a larger tank?",
+          "a": "House size alone does not settle it. Simultaneous use, fixture demand and the equipment characteristics matter more than the exterior dimensions of the home."
+        }
+      ],
+      "cta": "Describe your Westboro water heater setup",
+      "ctaP": "Tell us the symptoms, equipment and access details. Confirm availability and the proposed work before scheduling."
+    },
+    {
+      "slug": "collins-park",
+      "name": "Collins Park",
+      "h1": "Water Heater Repair and Installation in Collins Park, Topeka, KS: What to Expect",
+      "title": "Water Heater Repair and Installation in Collins Park, Topeka",
+      "description": "Plan water heater repair or installation in Collins Park, Topeka. Discuss the property setup, hot water demand and access before scheduling work.",
+      "intro": "Collins Park developed in the 1920s and includes Tudor, Colonial and Cape Cod style homes around its central green space.",
+      "hero": "Collins Park developed in the 1920s and includes Tudor, Colonial and Cape Cod style homes around its central green space. Water heater replacement in these established houses needs a check of the current utility area and connections. Explain both the symptoms and any changes to the home since the heater was installed.",
+      "body": [
+        {
+          "h": "Match the replacement to the existing space",
+          "ps": [
+            "A heater cabinet, service access and the route out of the house all need attention. Homes around Collins Park may have later alterations, so an equipment label cannot tell the whole installation story. Describe the available space and the fuel type before choosing a replacement."
+          ]
+        }
+      ],
+      "servicesTitle": "Water heater services for Collins Park properties",
+      "servicesLead": "Repair addresses a fault, replacement plans a new tank, and tankless installation checks a different setup. Select the service that fits your Collins Park inquiry.",
+      "mapIntro": "Find the Collins Park area within Topeka. The map is for location context, not a business address.",
+      "mapLabel": "Collins Park, Topeka, Kansas",
+      "mapSrc": "https://maps.google.com/maps?q=Collins%20Park%20Topeka%20KS&output=embed",
+      "faqs": [
+        {
+          "q": "Should I order a tank before checking the space?",
+          "a": "Have the installation requirements and access reviewed first. A unit with the same nominal capacity can still have different dimensions and clearances."
+        }
+      ],
+      "cta": "Describe your Collins Park water heater setup",
+      "ctaP": "Tell us the symptoms, equipment and access details. Confirm availability and the proposed work before scheduling."
+    },
+    {
+      "slug": "college-hill",
+      "name": "College Hill",
+      "h1": "Water Heater Repair and Installation in College Hill, Topeka, KS | For Property Managers",
+      "title": "Water Heater Repair and Installation in College Hill, Topeka",
+      "description": "Plan water heater repair or installation in College Hill, Topeka. Discuss the property setup, hot water demand and access before scheduling work.",
+      "intro": "College Hill sits north of Washburn University and includes American Four-square, Victorian, Georgian Revival and Craftsman homes.",
+      "hero": "College Hill sits north of Washburn University and includes American Four-square, Victorian, Georgian Revival and Craftsman homes. Water heater repair here benefits from knowing whether the issue affects the whole house or only a fixture. Describe the present occupants and hot water use rather than relying on the original house layout.",
+      "body": [
+        {
+          "h": "Separate a heater fault from demand changes",
+          "ps": [
+            "An adapted home or apartment arrangement can place several users on one hot water system. Note whether showers overlap, whether all taps cool at once and what equipment serves each unit. Repair assessment and replacement sizing are different questions, even when the complaint sounds the same."
+          ]
+        }
+      ],
+      "servicesTitle": "Water heater services for College Hill properties",
+      "servicesLead": "Repair addresses a fault, replacement plans a new tank, and tankless installation checks a different setup. Select the service that fits your College Hill inquiry.",
+      "mapIntro": "Find the College Hill area within Topeka. The map is for location context, not a business address.",
+      "mapLabel": "College Hill, Topeka, Kansas",
+      "mapSrc": "https://maps.google.com/maps?q=College%20Hill%20Topeka%20KS&output=embed",
+      "faqs": [
+        {
+          "q": "What details help for a rental property?",
+          "a": "Give the service address, access contact and the fixtures or units affected. Confirm permission to arrange work and whether the heater serves one dwelling or more before scheduling."
+        }
+      ],
+      "cta": "Describe your College Hill water heater setup",
+      "ctaP": "Tell us the symptoms, equipment and access details. Confirm availability and the proposed work before scheduling."
+    },
+    {
+      "slug": "holliday-park",
+      "name": "Holliday Park",
+      "h1": "Water Heater Repair and Installation in Holliday Park, Topeka, KS: The Right Setup for Your Home",
+      "title": "Water Heater Repair and Installation in Holliday Park, Topeka",
+      "description": "Plan water heater repair or installation in Holliday Park, Topeka. Discuss the property setup, hot water demand and access before scheduling work.",
+      "intro": "Holliday Park centers on the triangular park at 12th and Western, among some of Topeka's oldest homes.",
+      "hero": "Holliday Park centers on the triangular park at 12th and Western, among some of Topeka's oldest homes. A water heater in a turn-of-the-century property may sit in a utility space shaped by several later changes. Start by describing where the unit is and what has stopped working.",
+      "body": [
+        {
+          "h": "Look at the present utility arrangement",
+          "ps": [
+            "Historic character does not identify the current plumbing, fuel supply or vent route. Before replacing a heater, review the installation as it exists today. Explain any plan to move the unit so the scope is not limited to a like-for-like swap."
+          ]
+        }
+      ],
+      "servicesTitle": "Water heater services for Holliday Park properties",
+      "servicesLead": "Repair addresses a fault, replacement plans a new tank, and tankless installation checks a different setup. Select the service that fits your Holliday Park inquiry.",
+      "mapIntro": "Find the Holliday Park area within Topeka. The map is for location context, not a business address.",
+      "mapLabel": "Holliday Park, Topeka, Kansas",
+      "mapSrc": "https://maps.google.com/maps?q=Holliday%20Park%20Topeka%20KS&output=embed",
+      "faqs": [
+        {
+          "q": "Can a heater be moved during a renovation?",
+          "a": "Possibly, but the proposed location and the required connections need assessment. A move may change the permit scope and the work required, so discuss it before ordering equipment."
+        }
+      ],
+      "cta": "Describe your Holliday Park water heater setup",
+      "ctaP": "Tell us the symptoms, equipment and access details. Confirm availability and the proposed work before scheduling."
+    },
+    {
+      "slug": "oakland",
+      "name": "Oakland",
+      "h1": "Water Heater Repair and Installation in Oakland, Topeka, KS: A Local Touch",
+      "title": "Water Heater Repair and Installation in Oakland, Topeka",
+      "description": "Plan water heater repair or installation in Oakland, Topeka. Discuss the property setup, hot water demand and access before scheduling work.",
+      "intro": "Oakland has a long railroad-linked history and a mix of neighborhood homes, restaurants and retailers.",
+      "hero": "Oakland has a long railroad-linked history and a mix of neighborhood homes, restaurants and retailers. Water heater repair and installation here should be planned around the actual property use. A household shower pattern and a small business's hot water needs call for different questions.",
+      "body": [
+        {
+          "h": "Explain how the property uses hot water",
+          "ps": [
+            "For a home, note the fixtures that run together and whether the supply has changed. For a business, identify the equipment served, operating hours and who can authorize access. Do not assume residential equipment or a standard replacement plan is suitable for a commercial use."
+          ]
+        }
+      ],
+      "servicesTitle": "Water heater services for Oakland properties",
+      "servicesLead": "Repair addresses a fault, replacement plans a new tank, and tankless installation checks a different setup. Select the service that fits your Oakland inquiry.",
+      "mapIntro": "Find the Oakland area within Topeka. The map is for location context, not a business address.",
+      "mapLabel": "Oakland, Topeka, Kansas",
+      "mapSrc": "https://maps.google.com/maps?q=Oakland%20Topeka%20KS&output=embed",
+      "faqs": [
+        {
+          "q": "Can I use the form for a neighborhood business?",
+          "a": "Yes, describe the business use and equipment requirements. Commercial suitability, the job scope and availability must still be confirmed before work is booked."
+        }
+      ],
+      "cta": "Describe your Oakland water heater setup",
+      "ctaP": "Tell us the symptoms, equipment and access details. Confirm availability and the proposed work before scheduling."
+    },
+    {
+      "slug": "noto",
+      "name": "NOTO Arts District",
+      "h1": "Water Heater Repair and Installation in NOTO, Topeka, KS | For Small Businesses",
+      "title": "Water Heater Repair and Installation in NOTO Arts District, Topeka",
+      "description": "Plan water heater repair or installation in NOTO Arts District, Topeka. Discuss the property setup, hot water demand and access before scheduling work.",
+      "intro": "NOTO's historic buildings along the north end of the downtown corridor now include galleries, shops and eateries.",
+      "hero": "NOTO's historic buildings along the north end of the downtown corridor now include galleries, shops and eateries. A water heater in an adapted commercial space needs a clear description of what it serves and when access is possible. Repair or installation planning should account for the current use, not just the building's original purpose.",
+      "body": [
+        {
+          "h": "Plan around the occupied space",
+          "ps": [
+            "Tell us whether the heater supplies a shop sink, restroom, food-service equipment or several uses. Describe who controls the utility area and whether the building has shared systems. The scope and any commercial requirements need confirmation before arranging work."
+          ]
+        }
+      ],
+      "servicesTitle": "Water heater services for NOTO Arts District properties",
+      "servicesLead": "Repair addresses a fault, replacement plans a new tank, and tankless installation checks a different setup. Select the service that fits your NOTO Arts District inquiry.",
+      "mapIntro": "Find the NOTO Arts District area within Topeka. The map is for location context, not a business address.",
+      "mapLabel": "NOTO Arts District, Topeka, Kansas",
+      "mapSrc": "https://maps.google.com/maps?q=NOTO%20Arts%20District%20Topeka%20KS&output=embed",
+      "faqs": [
+        {
+          "q": "What if several tenants share the same heater?",
+          "a": "Identify the areas affected and the person authorized to approve work. A shared system should be assessed as a whole rather than treating one tenant's complaint as the full demand picture."
+        }
+      ],
+      "cta": "Describe your NOTO Arts District water heater setup",
+      "ctaP": "Tell us the symptoms, equipment and access details. Confirm availability and the proposed work before scheduling."
+    }
+  ]
+}

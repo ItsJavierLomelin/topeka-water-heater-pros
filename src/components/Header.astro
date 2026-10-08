@@ -52,12 +52,13 @@ const chevron = '<svg class="nav-chevron" aria-hidden="true" focusable="false" w
 
   <div class="mnav" id="mnav">
     <nav aria-label="Mobile">
-      {navLinks.map((l) => (
-        <>
-          <a href={u(l.href)}>{l.label}</a>
-          {'children' in l && l.children.map((a) => <a class="msub" href={u(a.href)}>{a.label}</a>)}
-        </>
-      ))}
+      {navLinks.map((l) => 'children' in l ? (
+        <details class="mobile-dropdown">
+          <summary>{l.label}<Fragment set:html={chevron} /></summary>
+          <a href={u(l.href)}>All {l.label.toLowerCase()}</a>
+          {l.children.map((a) => <a class="msub" href={u(a.href)}>{a.label}</a>)}
+        </details>
+      ) : <a href={u(l.href)}>{l.label}</a>)}
     </nav>
     <a class="btn btn-ink" href={u('/contact/')}><span>Request Service</span></a>
     <a class="mcall" href={business.phoneHref}>Call {business.phoneDisplay}</a>

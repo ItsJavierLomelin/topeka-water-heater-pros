@@ -20,6 +20,7 @@ interface Props {
 }
 
 const { title, description, path, crumbs = [], extraSchema = [], service = false, bodyClass } = Astro.props;
+const isPreview = import.meta.env.BASE_URL !== '/';
 const canonical = `${SITE_URL}${path}`;
 
 /* Theme tokens: only real values override the stylesheet defaults, so the
@@ -42,7 +43,7 @@ const themeCss = [
     <title>{title}</title>
     <meta name="description" content={description} />
     <meta name="theme-color" content={real(t.ink) ? t.ink : '#101110'} />
-    {isPlaceholder
+    {isPlaceholder || isPreview
       ? <meta name="robots" content="noindex, follow" />
       : <link rel="canonical" href={canonical} />}
     <link rel="icon" href={u('/favicon.svg')} type="image/svg+xml" />
@@ -53,12 +54,17 @@ const themeCss = [
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonical} />
     <meta property="og:site_name" content={business.name} />
+    <meta property="og:image" content={`${SITE_URL}${city.site.ogImage}`} />
     <meta property="og:type" content="website" />
     <meta property="og:locale" content="en_US" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
 
+    {city.site.ga4MeasurementId && <>
+      <script is:inline async src={`https://www.googletagmanager.com/gtag/js?id=${city.site.ga4MeasurementId}`}></script>
+      <script is:inline define:vars={{ga4Id:city.site.ga4MeasurementId}}>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config',ga4Id);</script>
+    </>}
     <script is:inline>document.documentElement.classList.add('js');</script>
     {themeCss && <style is:inline set:html={`:root{${themeCss}}`} />}
     <JsonLd data={pageSchema(path, title, description, crumbs, service)} />
