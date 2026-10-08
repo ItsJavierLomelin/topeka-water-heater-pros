@@ -15,7 +15,7 @@ Design: Scintillaweb Portfolio, next after Instinct Sewer Line in the ten-templa
 
 GitHub Pages previews use noindex and robots Disallow. A future approved root-domain build uses production canonicals and an indexable sitemap. The planned `topekawaterheater.prosapp.site` hostname is not a launched or confirmed domain.
 
-21 pages: home, three services plus hub, two guides plus hub, seven neighborhoods plus hub, about, contact, privacy and terms. One hero form on every content page.
+20 content pages plus 404: home, three services plus hub, two guides plus hub, seven neighborhoods plus hub, about, contact, privacy and terms. One hero form on every content page.
 
 AirChatty fields are `full_name`, `phone`, `email`, `page_details`, `page_site`, `page_location`, `page_code` (HSP). Attribution is CSS-hidden text, not type=hidden. No lead submissions were performed during this build. Confirm actual CRM receipt with Javier before production release.
 

@@ -141,3 +141,5 @@
 .brand img { width:56px;height:56px; }
 .ftr-brand img { width:64px;height:64px; }
 @media(max-width:600px){.brand img{width:48px;height:48px}}
+/* Content is visible immediately, with no scroll-dependent reveal gate. */
+.js .rev { opacity:1; transform:none; transition:none; }
