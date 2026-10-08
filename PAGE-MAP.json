@@ -1,0 +1,38 @@
+{
+  "paths": [
+    "/",
+    "/services/water-heater-repair/",
+    "/services/water-heater-installation/",
+    "/services/tankless-water-heaters/",
+    "/guides/repair-or-replace/",
+    "/guides/tank-vs-tankless/",
+    "/neighborhood/potwin-place/",
+    "/neighborhood/westboro/",
+    "/neighborhood/collins-park/",
+    "/neighborhood/college-hill/",
+    "/neighborhood/holliday-park/",
+    "/neighborhood/oakland/",
+    "/neighborhood/noto/",
+    "/about/",
+    "/contact/",
+    "/privacy/",
+    "/terms/",
+    "/services/",
+    "/guides/",
+    "/neighborhood/"
+  ],
+  "services": [
+    "Water Heater Repair",
+    "Water Heater Installation and Replacement",
+    "Tankless Water Heater Installation"
+  ],
+  "neighborhoods": [
+    "Potwin Place",
+    "Westboro",
+    "Collins Park",
+    "College Hill",
+    "Holliday Park",
+    "Oakland",
+    "NOTO Arts District"
+  ]
+}
